@@ -2,7 +2,7 @@
 <h3 align="center">Agentic AI Engineer • Full-Stack Developer • CTO @ ShadowBook</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+autonomous+AI+agents+with+LangGraph+%26+CrewAI;Official+Contributor+%E2%80%93+OpenAI+Agent+SDK;Full-Stack+Developer+%7C+Next.js+%2B+FastAPI;Turning+ideas+into+production-ready+AI+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+autonomous+AI+agents;Official+Contributor+%E2%80%93+OpenAI+Agent+SDK;Full-Stack+Developer+%7C+Next.js+%2B+FastAPI;Turning+ideas+into+production-ready+AI+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
