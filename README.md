@@ -26,7 +26,7 @@ I'm an **Agentic AI Engineer** and full-stack developer with a demonstrated hist
 
 I'm also an **official contributor to the OpenAI Agent SDK**, working on the tooling that powers the next generation of AI agents.
 
-- 🧠 Designing autonomous AI agents with **LangGraph**, **LangChain**, and **CrewAI**
+- 🧠 Designing autonomous AI agents
 - 🛠️ Contributing to the **OpenAI Agent SDK** (see pinned repo below for details)
 - 💻 Building full-stack products with **Next.js** (frontend) and **FastAPI** (backend)
 - 🎓 Cloud Applied Generative AI Engineering — **PIAIC**
@@ -103,7 +103,9 @@ I'm also an **official contributor to the OpenAI Agent SDK**, working on the too
 ### 📫 Let's Connect
 
 <p align="center">
+
 [LinkedIn](https://www.linkedin.com/in/agentic-ai-developer-with-innovative-solutions) • [Email](mailto:uzair330@gmail.com) • [ShadowBook](https://shadowbook.online)
+
 </p>
 
 <p align="center"><i>Open to collaborating on agentic AI, generative AI, and full-stack projects.</i></p>
