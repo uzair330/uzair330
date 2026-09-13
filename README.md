@@ -9,8 +9,11 @@
   <a href="https://www.linkedin.com/in/agentic-ai-developer-with-innovative-solutions">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:engr5uzair@gmail.com">
+  <a href="mailto:uzair330@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://shadowbook.online">
+    <img src="https://img.shields.io/badge/ShadowBook-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Peshawar-Pakistan-2E9EF7?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
@@ -19,7 +22,7 @@
 
 ### 🚀 About Me
 
-I'm an **Agentic AI Engineer** and full-stack developer with a demonstrated history of building autonomous AI systems and generative AI products. Currently serving as **CTO at ShadowBook**, where I lead technology strategy and shape agentic AI architecture from the ground up.
+I'm an **Agentic AI Engineer** and full-stack developer with a demonstrated history of building autonomous AI systems and generative AI products. Currently serving as **CTO at [ShadowBook](https://shadowbook.online)**, where I lead technology strategy and shape agentic AI architecture from the ground up.
 
 I'm also an **official contributor to the OpenAI Agent SDK**, working on the tooling that powers the next generation of AI agents.
 
@@ -87,8 +90,8 @@ I'm also an **official contributor to the OpenAI Agent SDK**, working on the too
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzair330&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzair330&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uzair330&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=uzair330&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -100,7 +103,7 @@ I'm also an **official contributor to the OpenAI Agent SDK**, working on the too
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/agentic-ai-developer-with-innovative-solutions">LinkedIn</a> •
-  </p>
+[LinkedIn](https://www.linkedin.com/in/agentic-ai-developer-with-innovative-solutions) • [Email](mailto:uzair330@gmail.com) • [ShadowBook](https://shadowbook.online)
+</p>
 
 <p align="center"><i>Open to collaborating on agentic AI, generative AI, and full-stack projects.</i></p>
